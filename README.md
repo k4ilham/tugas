@@ -125,6 +125,9 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
 
 # hal_home.dart
 
+
+<pre><code class="dart">
+
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
@@ -174,8 +177,12 @@ class Home extends StatelessWidget {
 
 }
 
+</code></pre>
 
 # hal_about.dart
+
+
+<pre><code class="dart">
 
 import 'package:flutter/material.dart';
 
@@ -208,5 +215,13 @@ class About extends StatelessWidget {
     );
   }
 }
+
+</code></pre>
+# Terima Kasih
+
+Kode : OSG04010
+Nama : Ilham Maulana
+Email: k4ilham@gmail.com
+
 
 
