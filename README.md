@@ -7,12 +7,13 @@ Eudeka OSG4 - UI / UX Flutte Aplication
 # Page About
 <img src="http://kailham.com/android/eudeka/flutter2.png">
 
-# Coding
 
-main.dart
 
-<code>
-  import 'dart:io';
+
+# main.dart
+
+  
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 
@@ -119,4 +120,4 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   }
 }
 
- </code>
+
