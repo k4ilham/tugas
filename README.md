@@ -12,7 +12,8 @@ Eudeka OSG4 - UI / UX Flutte Aplication
 
 # main.dart
 
-  
+<pre><code class="dart">
+ 
 import 'dart:io';
 
 import 'package:flutter/material.dart';
@@ -120,6 +121,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   }
 }
 
+</code></pre>
 
 # hal_home.dart
 
